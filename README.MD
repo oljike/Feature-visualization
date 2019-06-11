@@ -5,3 +5,4 @@ It includes reproducing the following paper: https://arxiv.org/pdf/1506.06579.pd
 sides of the model, e.g. in detection or recognition.
 <br/>
 ![Cat](images/cat_feature_map.jpg)
+![Face](images/face_feature_map.jpg)
